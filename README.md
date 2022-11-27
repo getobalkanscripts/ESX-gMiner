@@ -1,0 +1,1 @@
+# ESX-Miner-Job-Qtarget
